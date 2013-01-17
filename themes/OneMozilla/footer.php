@@ -7,7 +7,7 @@
   <div class="wrap">
     <p id="foot-logo">
       <a class="top" href="#page"><?php _e('Return to top', 'onemozilla'); ?></a>
-      <a class="logo" href="http://mozilla.cat" rel="external">Mozilla en català</a>
+      <a class="logo" href="http://mozilla.org" rel="external">Mozilla</a>
     </p>
 
     <p id="colophon">
@@ -25,7 +25,7 @@
   </div>
 </footer>
 
-<!-- <script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script> -->
+<script src="https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
 
 <?php wp_footer(); ?>
 
