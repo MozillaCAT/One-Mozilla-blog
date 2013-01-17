@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: One Mozilla\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-17 03:01-0800\n"
-"PO-Revision-Date: 2013-01-17 13:49+0200\n"
+"PO-Revision-Date: 2013-01-17 13:54+0200\n"
 "Last-Translator: Toni Hermoso Pulido <toniher@softcatala.org>\n"
 "Language-Team: Catalan <ca@dodds.net>\n"
 "Language: ca\n"
@@ -282,7 +282,7 @@ msgstr ""
 
 #: ../functions.php:539
 msgid "Trackback from "
-msgstr ""
+msgstr "Retroenllaç de"
 
 #: ../functions.php:541 ../functions.php:550
 msgid "on"
@@ -291,14 +291,14 @@ msgstr ""
 #: ../functions.php:542 ../functions.php:551 ../functions.php:566
 #: ../functions.php:576
 msgid "Permanent link to this comment by "
-msgstr ""
+msgstr "Enllaç permanent al comentari per"
 
 # Comment headings read "<Name> wrote on <Date> at <Time>"
 #: ../functions.php:545 ../functions.php:554 ../functions.php:569
 #: ../functions.php:579
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s a %2$s"
 
 #: ../functions.php:548
 msgid "Pingback from "
@@ -331,7 +331,7 @@ msgstr ""
 
 #: ../header.php:49
 msgid "Not Found"
-msgstr ""
+msgstr "No s'ha trobat"
 
 #: ../header.php:64
 msgid "Skip to main content"
@@ -454,15 +454,15 @@ msgstr "Resum"
 
 #: ../inc/theme-options.php:152
 msgid "Stone"
-msgstr ""
+msgstr "Pedra"
 
 #: ../inc/theme-options.php:157
 msgid "Sand"
-msgstr ""
+msgstr "Sorra"
 
 #: ../inc/theme-options.php:162
 msgid "Sky"
-msgstr ""
+msgstr "Cel"
 
 #: ../inc/theme-options.php:167
 msgid "Obsidian"
@@ -475,4 +475,4 @@ msgstr ""
 #: ../inc/theme-options.php:227
 #, php-format
 msgid "%s Theme Options"
-msgstr ""
+msgstr "Opcions del tema %s"
