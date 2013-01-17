@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 	<div id="content-main" class="main" role="main">
-	<h1 class="section-title"><?php _e('Mozilla News','mozpress'); ?></h1>
+<!--	<h1 class="section-title"><?php _e('Mozilla News','mozpress'); ?></h1> -->
 
 	<?php if ( have_posts() ) : ?>
 
