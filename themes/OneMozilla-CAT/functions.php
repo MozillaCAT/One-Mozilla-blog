@@ -186,9 +186,7 @@ add_role( 'translator', 'Translator', $trancando );
 */
 if ( function_exists('register_nav_menus') ) :
   register_nav_menus( array(
-  	'nav_press_center' => 'Press Center Nav',
-  	'connect' => 'Connect With Us',
-  	'media_tabs' => 'Media Library Tabs'
+  	'nav_footer' => 'Footer',
   ) );
 endif;
 
