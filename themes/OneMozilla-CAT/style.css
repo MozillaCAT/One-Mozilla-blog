@@ -123,6 +123,132 @@ ul.index a:hover, ul.index a:focus, ul.index a:active { color: #2f2f2f; text-dec
     width: 212px;
 }
 
+/** Social icons **/
+
+div.social {
+margin:25px auto 0px auto;
+text-align:center;
+}
+
+div.social ul {
+margin:10px -10px !important;
+}
+
+div.social li {
+display:inline;
+list-style-image:none;
+background-image:none;
+margin-right:1px;
+}
+
+/** Applist **/
+.applist .appbutton {
+background-color:#B6CD65;
+border-color: 1px solid #B4C36E;
+}
+
+a.download-link  {
+background-position:0 0;
+color:#09700B;
+display:block;
+height:50px;
+padding:5px 5px 5px 35px;
+}
+
+a.download-link {
+background:url("img/download-button.png") no-repeat scroll 0 0 transparent;
+color:#09700B;
+display:block;
+height:50px;
+padding:5px 5px 5px 35px;
+}
+
+.applist {
+margin-bottom:5px;
+}
+.applist span {
+line-height:5px;
+}
+
+.applist span br {
+line-height: 0px;
+}
+
+.applist .app-ico {
+float:right;
+height:45px;
+padding: 0px 5px 10px;
+}
+
+.applist .os-ico {
+height: 17px;
+}
+
+.applist .app-version {
+padding: 7px 2px 0px 0px;
+font-size: 10px;
+float:right;
+}
+
+.applist .app-name {
+font-size: 16px;
+font-weight:bold;
+float:right;
+padding: 5px 2px 0px 0px;
+}
+
+.applist .download-other {
+text-align: right;
+line-height:9px;
+margin-right:6px;
+font-size:11px;
+}
+
+
+.applist .app_desc {
+float:left;
+width:90px;
+}
+
+.applist .app_desc .app_desc_1 {
+}
+
+.applist .app_desc .app_desc_2 {
+text-align:right;
+font-size: 16px;
+font-weight:bold;
+}
+
+.applist .app_desc .app_os_ico {
+float:left;
+height:17px;
+}
+
+.applist .app_desc .app_desc_version {
+float:right;
+text-align:right;
+font-size: 10px;
+line-height:16px;
+}
+
+.applist .app_ico {
+width:55px;
+float:right;
+}
+
+ul.os_windows li.os_linux, ul.os_windows li.os_osx {
+display:none;
+}
+
+ul.os_linux li.os_windows, ul.os_linux li.os_osx {
+display:none;
+}
+
+ul.os_osx li.os_windows, ul.os_osx li.os_linux {
+display:none;
+}
+
+
 
 /*  @Tablet @Layout: 768px */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
