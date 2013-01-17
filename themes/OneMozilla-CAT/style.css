@@ -114,13 +114,9 @@ ul.index a:hover, ul.index a:focus, ul.index a:active { color: #2f2f2f; text-dec
 #foot-logo .logo { }
 #foot-logo .logocat {
     background: url("img/mctlogo.png") no-repeat scroll 0 0 transparent;
-    height: 91px;
-    width: 163px;
 }
 #foot-logo .logosc {
     background: url("img/SC_logo.png") no-repeat scroll 0 0 transparent;
-    height: 102px;
-    width: 212px;
 }
 
 /** Social icons **/
