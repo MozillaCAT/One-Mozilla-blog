@@ -147,15 +147,7 @@ background-color:#B6CD65;
 border-color: 1px solid #B4C36E;
 }
 
-a.download-link  {
-background-position:0 0;
-color:#09700B;
-display:block;
-height:50px;
-padding:5px 5px 5px 35px;
-}
-
-a.download-link {
+a.download-link:link, a.download-link:visited {
 background:url("img/download-button.png") no-repeat scroll 0 0 transparent;
 color:#09700B;
 display:block;
@@ -165,6 +157,7 @@ padding:5px 5px 5px 35px;
 
 .applist {
 margin-bottom:5px;
+width: 190px;
 }
 .applist span {
 line-height:5px;
