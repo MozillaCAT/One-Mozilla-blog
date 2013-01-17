@@ -7,9 +7,9 @@
   <div class="wrap">
     <p id="foot-logo">
       <a class="top" href="#page"><?php _e('Return to top', 'onemozilla'); ?></a>
-      <a class="logocat" href="http://mozilla.cat" rel="external">Mozilla en català</a>
-      <a class="logo" href="http://mozilla.org" rel="external">Mozilla</a>
-      <a class="logosc" href="http://www.softcatala.org" rel="external">Softcatalà</a>
+      <a class="logo logocat" href="http://mozilla.cat" rel="external">Mozilla en català</a>
+      <a class="logo logomoz" href="http://mozilla.org" rel="external">Mozilla</a>
+      <a class="logo logosc" href="http://www.softcatala.org" rel="external">Softcatalà</a>
     </p>
 
     <p id="colophon">
