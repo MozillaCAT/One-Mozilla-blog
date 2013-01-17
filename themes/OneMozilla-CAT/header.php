@@ -56,7 +56,7 @@
 
   <?php if ( is_singular() && get_option( 'thread_comments' ) ) { wp_enqueue_script( 'comment-reply' ); } ?>
   <?php wp_head(); ?>
-  
+<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/download.js"></script>  
 </head>
 
 <body <?php body_class($theme_options[color_scheme]); ?> role="document">

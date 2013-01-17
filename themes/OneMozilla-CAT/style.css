@@ -111,7 +111,7 @@ ul.index a:hover, ul.index a:focus, ul.index a:active { color: #2f2f2f; text-dec
 
 /* Extra Mozilla CAT **/
 
-#foot-logo  { }
+#foot-logo .logo { margin-right: 5px; }
 #foot-logo .logosc {
     background: url("img/SC_logo.png") no-repeat scroll 0 0 transparent; height: 40px;
 }
