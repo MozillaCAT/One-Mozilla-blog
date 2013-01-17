@@ -113,6 +113,8 @@ ul.index a:hover, ul.index a:focus, ul.index a:active { color: #2f2f2f; text-dec
 
 #foot-logo .logo {
     background: url("img/mctlogo.png") no-repeat scroll 0 0 transparent;
+    height: 91px;
+    width: 163px;
 }
 
 
