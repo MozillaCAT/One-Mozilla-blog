@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: One Mozilla\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-17 03:01-0800\n"
-"PO-Revision-Date: 2013-01-17 13:06+0200\n"
+"PO-Revision-Date: 2013-01-17 13:49+0200\n"
 "Last-Translator: Toni Hermoso Pulido <toniher@softcatala.org>\n"
 "Language-Team: Catalan <ca@dodds.net>\n"
 "Language: ca\n"
@@ -125,19 +125,19 @@ msgstr ""
 
 #: ../comments.php:58
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: ../comments.php:58
 msgid "(required)"
-msgstr ""
+msgstr "(obligatori)"
 
 #: ../comments.php:62
 msgid "E-mail"
-msgstr ""
+msgstr "Adreça electrònica"
 
 #: ../comments.php:62
 msgid "(required, will not be published)"
-msgstr ""
+msgstr "(obligatòria, no es publicarà)"
 
 #: ../comments.php:66
 msgid "Website"
@@ -145,34 +145,38 @@ msgstr "Lloc web"
 
 #: ../comments.php:70
 msgid "Your comment"
-msgstr ""
+msgstr "El vostre comentari"
 
 #: ../comments.php:71
 msgid "Submit Comment"
-msgstr ""
+msgstr "Envia el comentari"
 
 #: ../comments.php:83
 msgid ""
 "You must provide a name and e-mail (your e-mail address won’t be published)."
 msgstr ""
+"Heu de proporcionar un nom i adreça electrònica (l'adreça electrònica no es "
+"publicarà)."
 
 #: ../comments.php:84
 msgid "You must provide a name."
-msgstr ""
+msgstr "Heu de proporcionar un nom."
 
 #: ../comments.php:85
 msgid "You must provide an e-mail address (it won’t be published)."
-msgstr ""
+msgstr "Heu de proporcionar una adreça electrònica (que no serà publicada)."
 
 #: ../comments.php:86
 msgid ""
 "The e-mail address you entered doesn’t look like a complete e-mail address. "
 "It should look like “yourname@example.com”."
 msgstr ""
+"L'adreça electrònica que heu introduït no sembla una adreça electrònica "
+"completa. Hauria de ser com «elvostrenom@example.com»."
 
 #: ../comments.php:87
 msgid "You must enter a comment."
-msgstr ""
+msgstr "Heu d'introduir un comentari."
 
 #: ../content-page.php:7
 msgid "Edit Page"
@@ -218,6 +222,10 @@ msgid ""
 "\">Creative Commons Attribution Share-Alike License v3.0</a> or any later "
 "version."
 msgstr ""
+"Excepte si <a href=\"%1s\" rel=\"external\">es diu</a> el contrari, el contingut "
+"d'aquest lloc està sota la llicència <a href=\"%2s\" rel=\"external "
+"license\">Creative Commons Atribució Compartir-Igual v 3.0</a> o qualsevol "
+"versió posterior."
 
 #: ../footer.php:18
 msgid "Contact Us"
@@ -246,7 +254,7 @@ msgstr ""
 #: ../functions.php:194
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Pàgina %s"
 
 #: ../functions.php:231
 msgid "This post is password protected. To view it, please enter the password."
@@ -254,7 +262,7 @@ msgstr ""
 
 #: ../functions.php:232
 msgid "Password"
-msgstr ""
+msgstr "Contrasenya"
 
 #: ../functions.php:358
 msgid "Feature this post?"
@@ -314,7 +322,7 @@ msgstr ""
 
 #: ../functions.php:619
 msgid "Title:"
-msgstr ""
+msgstr "Títol:"
 
 #: ../header.php:45
 #, php-format
@@ -383,11 +391,11 @@ msgstr "Més de %s"
 
 #: ../inc/theme-options.php:46
 msgid "Color Scheme"
-msgstr ""
+msgstr "Esquema de color"
 
 #: ../inc/theme-options.php:54
 msgid "Hide post authors"
-msgstr ""
+msgstr "Amaga els autors dels apunts"
 
 #: ../inc/theme-options.php:88 ../inc/theme-options.php:89
 msgid "Theme Options"
@@ -442,7 +450,7 @@ msgstr ""
 
 #: ../inc/theme-options.php:120
 msgid "Overview"
-msgstr ""
+msgstr "Resum"
 
 #: ../inc/theme-options.php:152
 msgid "Stone"
