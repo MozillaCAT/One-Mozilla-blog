@@ -7,7 +7,7 @@
   <div class="wrap">
     <p id="foot-logo">
       <a class="top" href="#page"><?php _e('Return to top', 'onemozilla'); ?></a>
-      <a class="logo" href="http://mozilla.org" rel="external">Mozilla</a>
+      <a class="logo" href="http://mozilla.cat" rel="external">Mozilla en català</a>
     </p>
 
     <p id="colophon">
