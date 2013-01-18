@@ -328,9 +328,9 @@ display:none;
 
   /** Peu **/
   
-  #foot-logo, #colophon, #nav-meta { text-align: center; }
+  #foot-logo, #colophon, #nav-meta { text-align: center; margin-bottom: 2em; }
   #menu-peu li { font-size: 1.3em; margin-top: 1em; }
-  #foot-logo .logo { display: inline-block; }
+  #foot-logo .logo { display: inline-block; float: none; }
 }
 
 /*  @Wide @Mobile @Layout: 480px */
