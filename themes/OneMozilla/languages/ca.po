@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: One Mozilla\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-17 03:01-0800\n"
-"PO-Revision-Date: 2013-01-17 13:54+0200\n"
+"PO-Revision-Date: 2013-01-18 09:41+0200\n"
 "Last-Translator: Toni Hermoso Pulido <toniher@softcatala.org>\n"
 "Language-Team: Catalan <ca@dodds.net>\n"
 "Language: ca\n"
@@ -20,16 +20,17 @@ msgstr ""
 
 #: ../404.php:7
 msgid "Well, this is embarrassing…"
-msgstr ""
+msgstr "Bé, és lamentable…"
 
 #: ../404.php:10
 msgid ""
 "We hate to say it, but we couldn’t find the page or file you’re looking for."
 msgstr ""
+"Ens agrada dir-ho, però no hem pogut trobar la pàgina o fitxer que cerqueu."
 
 #: ../404.php:11
 msgid "If you typed in the address, try double-checking the spelling."
-msgstr ""
+msgstr "Si heu escrit l'adreça, torneu a comprovar-ne l'ortografia."
 
 #: ../404.php:12
 msgid ""
@@ -37,6 +38,9 @@ msgid ""
 "at mozilla dot com</em>. Be sure to tell us where you came from and what you "
 "were looking for, and we’ll do our best to fix it."
 msgstr ""
+"Si heu seguit un enllaç d'algun lloc, feu-nos saber a <em>web ensaimada "
+"mozilla punt cat</em>. Assegureu-vos de dir-nos d'on heu vingut i què "
+"cercàveu, i nosaltres farem el possible per arreglar-lo."
 
 #: ../archive.php:14
 #, php-format
@@ -82,6 +86,8 @@ msgid ""
 "Apologies, but no results were found for the requested archive. Perhaps "
 "searching will help find a related post."
 msgstr ""
+"Ho sentim, però no s'han trobat resultats per a l'arxiu sol·licitat. Potser "
+"si feu una cerca podeu trobar un apunt relacionat."
 
 #: ../comments.php:14
 msgid ""
@@ -105,7 +111,7 @@ msgstr "Més comentaris:"
 #: ../comments.php:46
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "Cal <a href=\"%s\">iniciar una sessió</a> per enviar un comentari."
 
 #: ../comments.php:51
 msgid "Post Your Comment"
@@ -114,7 +120,7 @@ msgstr "Envia el comentari"
 #: ../comments.php:51
 #, php-format
 msgid "Reply to %s"
-msgstr ""
+msgstr "Respon a %s"
 
 #: ../comments.php:55
 #, php-format
@@ -122,6 +128,8 @@ msgid ""
 "You are logged in as <a href=\"%1$s\">%2$s</a>. <a class=\"logout\" href="
 "\"%3$s\">Log out?</a>"
 msgstr ""
+"Heu iniciat una sessió com a <a href=\"%1$s\">%2$ s</a>. <a class=\"logout\" "
+"href=\"%3$s\">Voleu finalitzar-la?</a>"
 
 #: ../comments.php:58
 msgid "Name"
@@ -259,6 +267,8 @@ msgstr "Pàgina %s"
 #: ../functions.php:231
 msgid "This post is password protected. To view it, please enter the password."
 msgstr ""
+"Aquest apunt està protegit amb contrasenya. Per veure'l cal introduir-ne "
+"una."
 
 #: ../functions.php:232
 msgid "Password"
@@ -266,19 +276,19 @@ msgstr "Contrasenya"
 
 #: ../functions.php:358
 msgid "Feature this post?"
-msgstr ""
+msgstr "Voleu destacar l'apunt?"
 
 #: ../functions.php:363
 msgid "Featured Post"
-msgstr ""
+msgstr "Apunt destacat"
 
 #: ../functions.php:391
 msgid "Continue reading"
-msgstr ""
+msgstr "Continue llegint"
 
 #: ../functions.php:438
 msgid "Sidebar"
-msgstr ""
+msgstr "Barra lateral"
 
 #: ../functions.php:539
 msgid "Trackback from "
@@ -302,15 +312,15 @@ msgstr "%1$s a %2$s"
 
 #: ../functions.php:548
 msgid "Pingback from "
-msgstr ""
+msgstr "Pingback de"
 
 #: ../functions.php:565 ../functions.php:575
 msgid "wrote on"
-msgstr ""
+msgstr "escrigué el"
 
 #: ../functions.php:585
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "El vostre comentari està a l'espera de ser moderat."
 
 #: ../functions.php:593
 msgid "Edit Comment"
@@ -318,7 +328,7 @@ msgstr "Edita el comentari"
 
 #: ../functions.php:607
 msgid "This widget shows the three most recent featured posts."
-msgstr ""
+msgstr "Aquest giny mostra els tres apunts destacats més recents."
 
 #: ../functions.php:619
 msgid "Title:"
@@ -327,7 +337,7 @@ msgstr "Títol:"
 #: ../header.php:45
 #, php-format
 msgid "Search results for “%s”"
-msgstr ""
+msgstr "Cerca resultats de «%s»"
 
 #: ../header.php:49
 msgid "Not Found"
@@ -355,7 +365,7 @@ msgstr ""
 
 #: ../image.php:22
 msgid "Edit Attachment"
-msgstr ""
+msgstr "Edita l'adjunció"
 
 #: ../index.php:10
 msgid "Featured"
@@ -369,12 +379,12 @@ msgstr ""
 
 #: ../masthead.php:6
 msgid "Go to the front page"
-msgstr ""
+msgstr "Vés a la portada"
 
 #: ../search.php:45
 #, php-format
 msgid "Sorry, we didn't find anything for “%s.” Try another search."
-msgstr ""
+msgstr "No hem trobat res amb «%s». Proveu una altra cerca."
 
 #: ../searchform.php:3
 msgid "Search"

@@ -120,6 +120,8 @@ ul.index a:hover, ul.index a:focus, ul.index a:active { color: #2f2f2f; text-dec
     background: url("img/SC_logo.png") no-repeat scroll 0 0 transparent; height: 40px;
 }
 
+.widget { margin-bottom: 5em; }
+
 /** Social icons **/
 
 div.social {
@@ -324,7 +326,11 @@ display:none;
   /** Disable applist **/
   #execphp-3, #text-7  { display:none; }
 
-
+  /** Peu **/
+  
+  #foot-logo, #colophon, #nav-meta { text-align: center; }
+  #menu-peu li { font-size: 1.3em; margin-top: 1em; }
+  #foot-logo .logo { display: inline-block; }
 }
 
 /*  @Wide @Mobile @Layout: 480px */
