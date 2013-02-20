@@ -190,4 +190,11 @@ if ( function_exists('register_nav_menus') ) :
   ) );
 endif;
 
+// Modifica la mida del resum per mostrar l'article sencer a la portada
+add_filter('excerpt_length', 'custom_excerpt_length');
+function custom_excerpt_length ($length)  {
+    if (is_front_page() XOR is_home()) return 9999;
+    return $length;
+}
+
 ?>
