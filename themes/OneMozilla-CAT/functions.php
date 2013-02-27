@@ -194,7 +194,8 @@ endif;
 add_filter('excerpt_length', 'custom_excerpt_length');
 function custom_excerpt_length ($length)  {
     if (is_front_page() XOR is_home()) return 9999;
-    return $length;
+    //return $length;
+    return 9999;
 }
 
 ?>
