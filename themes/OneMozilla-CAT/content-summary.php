@@ -24,7 +24,7 @@
 
   <div class="entry-summary">
   <?php if (has_post_thumbnail()) : ?><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail(array(68,68), array('alt' => "", 'title' => ""));?></a><?php endif; ?>
-    <?php the_content(); ?>
+    Test <?php the_content(); ?>
   </div><!-- .entry-summary -->
 
   <?php if ( has_tag() || ( 'post' == get_post_type() ) ) : // No need for a footer if there's nothing to show ?>
