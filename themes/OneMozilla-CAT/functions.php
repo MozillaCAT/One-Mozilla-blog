@@ -1,5 +1,4 @@
 <?php
-die();
 function presscenter_remove_parent_filters() {
   remove_filter( 'get_the_excerpt', 'onemozilla_custom_excerpt_more' );
   remove_filter( 'excerpt_more', 'onemozilla_auto_excerpt_more' );
